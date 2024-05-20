@@ -1,7 +1,8 @@
 {
-  "name": "devtheme",
-  "displayName": "devTHeme",
+  "name": "owlTh",
+  "displayName": "nightOWL",
   "description": "theme for devs",
+  "publisher": "devTH",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.89.0"
