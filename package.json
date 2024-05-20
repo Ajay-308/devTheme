@@ -5,6 +5,10 @@
   "icon": "image/logo.png",
   "publisher": "devTH",
   "version": "0.2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ajay-308/devTheme"
+  },
   "engines": {
     "vscode": "^1.89.0"
   },
