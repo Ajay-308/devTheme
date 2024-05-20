@@ -2,6 +2,7 @@
   "name": "owlTh",
   "displayName": "nightOWL",
   "description": "theme for devs",
+  "icon": "image/logo.png",
   "publisher": "devTH",
   "version": "0.1.0",
   "engines": {
